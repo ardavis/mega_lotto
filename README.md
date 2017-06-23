@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-MegaLotto::Drawing.new.draw #=> [23, 2, 12, 4, 3]
+MegaLotto::Drawing.new.draw #=> [23, 2, 12, 4, 3, 26]
 
 ```
 
